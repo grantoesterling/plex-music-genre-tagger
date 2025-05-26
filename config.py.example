@@ -1,0 +1,20 @@
+# Configuration file for Plex Music Updater
+# Copy this file to config.py and fill in your actual values
+
+# Plex Server Configuration
+PLEX_URL = 'https://YOUR_PLEX_SERVER_IP:32400'  # e.g., 'https://192.168.1.100:32400'
+PLEX_TOKEN = 'YOUR_PLEX_TOKEN_HERE'  # Get this from https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+
+# Last.fm API Configuration
+# Get your API key from https://www.last.fm/api/account/create
+LASTFM_API_KEY = 'YOUR_LASTFM_API_KEY'
+LASTFM_API_SECRET = 'YOUR_LASTFM_API_SECRET'
+
+# Spotify API Configuration
+# Get your credentials from https://developer.spotify.com/dashboard/applications
+SPOTIFY_CLIENT_ID = 'YOUR_SPOTIFY_CLIENT_ID'
+SPOTIFY_CLIENT_SECRET = 'YOUR_SPOTIFY_CLIENT_SECRET'
+
+# Processing Configuration
+MAX_ALBUMS = None  # Set to a number to limit processing (e.g., 100), or None for all albums
+SLEEP_BETWEEN_REQUESTS = 1  # Seconds to wait between API requests to be nice to the services 
