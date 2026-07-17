@@ -1,0 +1,35 @@
+[
+{
+  "title": "🌇 Warm Skin, Slow Spin",
+  "filters": {
+    "genre": [
+      "Soft Rock", "Smooth Jazz", "Sophisti-Pop", "Jazz-Funk", "R&B"
+    ],
+    "mood": [
+      "warm", "mellow", "nostalgic", "romantic", "peaceful"
+    ]
+  }
+},
+{
+  "title": "💃 Bedroom Funk Curve",
+  "filters": {
+    "genre": [
+      "Boogie", "Funk", "Jazz-Funk", "R&B", "Neo-Soul"
+    ],
+    "mood": [
+      "sensual", "rhythmic", "warm", "bouncy", "playful"
+    ]
+  }
+},
+{
+  "title": "🌙 Night Bloom",
+  "filters": {
+    "genre": [
+      "Trip Hop", "Downtempo", "Neo-Soul", "Smooth Jazz", "Ambient Pop"
+    ],
+    "mood": [
+      "seductive", "nocturnal", "smooth", "mellow", "intimate", "urban"
+    ]
+  }
+}
+]

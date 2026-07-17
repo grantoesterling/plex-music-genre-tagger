@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  plex-updater:
+    build: .
+    container_name: plex-updater
+    volumes:
+      - ./logs:/var/log/plex-updater
+      - ./data:/app/data
+    restart: unless-stopped
+    environment:
+      - TZ=UTC  # Set timezone for cron jobs 

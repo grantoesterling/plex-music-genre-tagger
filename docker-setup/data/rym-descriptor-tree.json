@@ -1,0 +1,5766 @@
+{
+  "descriptorHierarchy": [
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "apocalyptic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bright"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cold"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dark"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infernal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mysterious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ominous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "funereal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infernal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ominous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "epic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ethereal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "futuristic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "science fiction"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hypnotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "repetitive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "martial"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mechanical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "medieval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mysterious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "natural"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aquatic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "desert"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "forest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "natural"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rain"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "storm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tropical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nocturnal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pastoral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "peaceful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "psychedelic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ritualistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "seasonal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "summer"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "autumn"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spring"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "autumn"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spring"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "summer"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cold"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "space"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spiritual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "surreal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ethereal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suspenseful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tribal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rhythmic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hypnotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "urban"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "desert"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tropical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "funereal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infernal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ominous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aquatic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "desert"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "forest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "natural"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rain"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "storm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tropical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "autumn"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spring"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "summer"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cold"
+        }
+      ],
+      "level": 0,
+      "name": "atmosphere"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "funereal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infernal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ominous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        }
+      ],
+      "level": 0,
+      "name": "dark"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "aquatic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "desert"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "forest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "natural"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rain"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "storm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tropical"
+        }
+      ],
+      "level": 0,
+      "name": "natural"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "autumn"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spring"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "summer"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "warm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cold"
+        }
+      ],
+      "level": 0,
+      "name": "seasonal"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "ballad"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "children's music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fairy tale"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lullaby"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nursery rhyme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fairy tale"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lullaby"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nursery rhyme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "concept album"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rock opera"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "concept album"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "concerto"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "diss"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ensemble"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "acoustic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "androgynous vocals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "choral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "duet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "female vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "instrumental"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "male vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "non-binary vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "orchestral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "posse cut"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hymn"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "jingle"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mashup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "medley"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "monologue"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "novelty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "avant-garde"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opera"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "parody"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "humorous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pastiche"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "section"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "interlude"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "intro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "movement"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "outro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "reprise"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "silence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "interlude"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "skit"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "humorous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sonata"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "instrumental"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ensemble"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "stem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suite"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tone poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "orchestral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "movement"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "waltz"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "form"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fairy tale"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lullaby"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nursery rhyme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rock opera"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "concept album"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "acoustic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "androgynous vocals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "choral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "duet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "female vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "instrumental"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "male vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "non-binary vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "orchestral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "posse cut"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "interlude"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "intro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "movement"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "outro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "reprise"
+        }
+      ],
+      "level": 0,
+      "name": "form"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "fairy tale"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lullaby"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nursery rhyme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        }
+      ],
+      "level": 0,
+      "name": "children's music"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "rock opera"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "concept album"
+        }
+      ],
+      "level": 0,
+      "name": "concept album"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "acoustic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "androgynous vocals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "choral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "duet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "female vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "instrumental"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "male vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "non-binary vocalist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "orchestral"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chamber music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "posse cut"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vocal group"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "a cappella"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        }
+      ],
+      "level": 0,
+      "name": "ensemble"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "string quartet"
+        }
+      ],
+      "level": 0,
+      "name": "chamber music"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "interlude"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "intro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "movement"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "outro"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "reprise"
+        }
+      ],
+      "level": 0,
+      "name": "section"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "narrative"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "stream of consciousness"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "theme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "abstract"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ageing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alienation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "betrayal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "childhood"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conscious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "crime"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "death"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "disease"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "domestic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "psychedelic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dystopian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "educational"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "envy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "family"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fantasy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fashion"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "food"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "friendship"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "grief"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "health"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hedonistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "history"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ideology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "internet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "monologue"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "literature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "macabre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "misanthropic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "money"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nostalgia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spiritual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranoia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "patriotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "school"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "science fiction"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "futuristic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "self-hatred"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sports"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "travel"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vehicles"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "video games"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "war"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "martial"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "tone"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "theme"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mood"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "altruistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "apathetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "boastful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cryptic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "deadpan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hateful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "humorous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "optimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pessimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rebellious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sarcastic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satirical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "serious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vulgar"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "abstract"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ageing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alienation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "betrayal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "childhood"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conscious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "crime"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "death"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "disease"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "domestic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "psychedelic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dystopian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "educational"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "envy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "family"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fantasy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fashion"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "food"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "friendship"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "grief"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "health"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hedonistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "history"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ideology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "internet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "monologue"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "literature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "macabre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "misanthropic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "money"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nostalgia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spiritual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranoia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "patriotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "school"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "science fiction"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "futuristic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "self-hatred"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sports"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "travel"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vehicles"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "video games"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "war"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "martial"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "altruistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "apathetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "boastful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cryptic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "deadpan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hateful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "humorous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "optimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pessimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rebellious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sarcastic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satirical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "serious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vulgar"
+        }
+      ],
+      "level": 0,
+      "name": "lyrics"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "abstract"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ageing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alienation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "betrayal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "childhood"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conscious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "crime"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "death"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "disease"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "domestic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "psychedelic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dystopian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "educational"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "envy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "family"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fantasy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "fashion"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "folklore"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "food"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "friendship"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "grief"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "health"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hedonistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "drugs"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "history"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "ideology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "internet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "monologue"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "literature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "macabre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "misanthropic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "money"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nostalgia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "spiritual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranoia"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "patriotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "school"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "science fiction"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "futuristic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "paranormal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "self-hatred"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sports"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "travel"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vehicles"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "video games"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "violence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "war"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "martial"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        }
+      ],
+      "level": 0,
+      "name": "theme"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "suicide"
+        }
+      ],
+      "level": 0,
+      "name": "death"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "alcohol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "party"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cannabis"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "opioids"
+        }
+      ],
+      "level": 0,
+      "name": "drugs"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "antiquity"
+        }
+      ],
+      "level": 0,
+      "name": "history"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "Carnaval"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christmas"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "carol"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "winter"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Halloween"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "holiday"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "scary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        }
+      ],
+      "level": 0,
+      "name": "holiday"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "anti-religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "feminism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pacifism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pagan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nature"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mythology"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "occult"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "religious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satanic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "philosophical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vegetarianism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        }
+      ],
+      "level": 0,
+      "name": "ideology"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "anarchism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "conservatism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nationalism"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "propaganda"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "protest"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "political"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "LGBTQ"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "socialism"
+        }
+      ],
+      "level": 0,
+      "name": "political"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "Buddhist"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Christian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Hindu"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Islamic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Judaic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Sikh"
+        }
+      ],
+      "level": 0,
+      "name": "religious"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "regret"
+        }
+      ],
+      "level": 0,
+      "name": "introspective"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "bisexual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lesbian"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nonbinary"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "transgender"
+        }
+      ],
+      "level": 0,
+      "name": "LGBTQ"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "breakup"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "love"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "infidelity"
+        }
+      ],
+      "level": 0,
+      "name": "love"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "poverty"
+        }
+      ],
+      "level": 0,
+      "name": "money"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "animals"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "environmentalism"
+        }
+      ],
+      "level": 0,
+      "name": "nature"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "existential"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "introspective"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "nihilistic"
+        }
+      ],
+      "level": 0,
+      "name": "philosophical"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "homicide"
+        }
+      ],
+      "level": 0,
+      "name": "violence"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "altruistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "apathetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "boastful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "cryptic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "deadpan"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "hateful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "humorous"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "optimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "pessimistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "poem"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rebellious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sarcastic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "satirical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "serious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "vulgar"
+        }
+      ],
+      "level": 0,
+      "name": "tone"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "angry"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aggressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anxious"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bittersweet"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "calm"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "meditative"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "disturbing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "energetic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "manic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "happy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lethargic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "longing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "mellow"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "soothing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "passionate"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "playful"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "quirky"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "romantic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sad"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "depressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lonely"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melancholic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sensual"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sentimental"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "uplifting"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "triumphant"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aggressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "meditative"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "manic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "soothing"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "depressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lonely"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melancholic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "triumphant"
+        }
+      ],
+      "level": 0,
+      "name": "mood"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "aggressive"
+        }
+      ],
+      "level": 0,
+      "name": "angry"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "meditative"
+        }
+      ],
+      "level": 0,
+      "name": "calm"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "manic"
+        }
+      ],
+      "level": 0,
+      "name": "energetic"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "soothing"
+        }
+      ],
+      "level": 0,
+      "name": "mellow"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "depressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lonely"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melancholic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sombre"
+        }
+      ],
+      "level": 0,
+      "name": "sad"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "triumphant"
+        }
+      ],
+      "level": 0,
+      "name": "uplifting"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "angular"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "anthemic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "repetitive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "atmospheric"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "atmosphere"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melodic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rhythmic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "technical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "atonal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "avant-garde"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "silence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "chaotic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "complex"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dense"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "dissonant"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "eclectic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "heavy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lush"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Wall of Sound"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melodic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "microtonal"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "minimalistic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "noisy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "polyphonic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "melodic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "polyrhythmic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "progressive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "raw"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lo-fi"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "repetitive"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "rhythmic"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bouncy"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "soft"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sparse"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "silence"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "technical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "theatrical"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "bouncy"
+        }
+      ],
+      "level": 0,
+      "name": "style"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "bouncy"
+        }
+      ],
+      "level": 0,
+      "name": "rhythmic"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "improvisation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aleatory"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "generative music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "improvisation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "uncommon time signatures"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "production"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Wall of Sound"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lobit"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lo-fi"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Wall of Sound"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "aleatory"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "generative music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "improvisation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "uncommon time signatures"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lobit"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lo-fi"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Wall of Sound"
+        }
+      ],
+      "level": 0,
+      "name": "technique"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "aleatory"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "generative music"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "composition"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "improvisation"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "uncommon time signatures"
+        }
+      ],
+      "level": 0,
+      "name": "composition"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "level": 1,
+          "name": "lobit"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "lo-fi"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "sampling"
+        },
+        {
+          "children": [],
+          "level": 1,
+          "name": "Wall of Sound"
+        }
+      ],
+      "level": 0,
+      "name": "production"
+    }
+  ],
+  "scrapedAt": "2025-05-29T15:09:38.279Z",
+  "totalDescriptors": 1144,
+  "url": "https://rateyourmusic.com/music_descriptor/"
+}

@@ -1,0 +1,16 @@
+{
+  "excluded_meta_genres": [
+    "Regional Music",
+    "Asian Music",
+    "Hispanic Music",
+    "Industrial & Noise",
+    "Italian Music",
+    "Musical Theatre and Entertainment",
+    "Northern American Music",
+    "Reggae / Ska / Dancehall",
+    "Scenes & Movements",
+    "South American Music",
+    "Southeast Asian Music"
+  ],
+  "description": "Meta-genres that are too broad to be useful as tags. These will be excluded from hierarchical expansion."
+}

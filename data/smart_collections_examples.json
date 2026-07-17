@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Terminal Rituals",
+    "summary": "Atmospheric electronic music for deep focus and contemplation",
+    "sort": "random",
+    "filters": {
+      "genre": [
+        "Ambient",
+        "Berlin School",
+        "Minimalism"
+      ],
+      "mood": [
+        "ritualistic",
+        "hypnotic",
+        "calm",
+        "futuristic"
+      ]
+    }
+  },
+  {
+    "title": "Dark Jazz Vibes",
+    "summary": "Moody and atmospheric jazz perfect for late night listening",
+    "sort": "random",
+    "filters": {
+      "genre": ["Jazz"],
+      "mood": [
+        "dark",
+        "brooding",
+        "melancholic",
+        "atmospheric"
+      ]
+    }
+  },
+  {
+    "title": "Energetic Electronic",
+    "summary": "High-energy electronic music to get you moving",
+    "filters": {
+      "genre": [
+        "Electronic",
+        "Techno",
+        "House",
+        "Drum and Bass"
+      ],
+      "mood": [
+        "energetic",
+        "driving",
+        "uplifting",
+        "euphoric"
+      ]
+    }
+  },
+  {
+    "title": "Experimental & Avant-garde",
+    "summary": "Boundary-pushing music that challenges conventional forms",
+    "filters": {
+      "genre": [
+        "Experimental",
+        "Avant-garde",
+        "Noise",
+        "Industrial"
+      ]
+    }
+  },
+  {
+    "title": "Chill Hip-Hop",
+    "summary": "Laid-back hip-hop beats perfect for studying or relaxing",
+    "filters": {
+      "genre": ["Hip-Hop"],
+      "mood": [
+        "chill",
+        "relaxed",
+        "mellow",
+        "laid-back"
+      ]
+    }
+  },
+  {
+    "title": "Modern Classical",
+    "summary": "Contemporary classical compositions and neo-classical works",
+    "sort": "titleSort",
+    "filters": {
+      "genre": [
+        "Classical",
+        "Neo-Classical",
+        "Contemporary Classical"
+      ],
+      "mood": [
+        "contemplative",
+        "serene",
+        "dramatic"
+      ]
+    }
+  }
+] 

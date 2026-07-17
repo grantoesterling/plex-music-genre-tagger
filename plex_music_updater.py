@@ -13,6 +13,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import re
 import pandas as pd
 from difflib import SequenceMatcher
+from rym_genre_hierarchy import RYMGenreHierarchy
 
 # Try to import configuration
 try:
@@ -170,6 +171,10 @@ class MusicMetadataUpdater:
         except FileNotFoundError:
             logger.warning("rolling-stone.csv not found in data/ directory. Rolling Stone data will be unavailable.")
             self.rolling_stone_data = pd.DataFrame()
+
+        # Initialize RYM genre hierarchy
+        self.rym_hierarchy = RYMGenreHierarchy()
+        logger.info(f"RYM hierarchy loaded with {len(self.rym_hierarchy.all_genres)} valid genres")
 
         # Get all existing genres from Plex
         self.existing_plex_genres = self.get_all_plex_genres()
@@ -424,6 +429,9 @@ class MusicMetadataUpdater:
                 r'pedophile',
                 r'autotune',
                 r'croatian',
+                r'listen',
+                r'male',
+                r'female',
                 # Common non-descriptive words
                 r'album',
                 r'albums',
@@ -1114,6 +1122,21 @@ class MusicMetadataUpdater:
                     # Update the final sets
                     all_genres = all_genres.union(classified_genres)
                     all_styles = classified_styles  # Replace with classified styles
+                
+                # Apply RYM hierarchical expansion to all genres and styles
+                logger.info(f"Before hierarchical expansion - Genres: {len(all_genres)}, Styles: {len(all_styles)}")
+                
+                # Expand genres hierarchically
+                expanded_genres = self.rym_hierarchy.expand_genres_hierarchically(list(all_genres))
+                
+                # Expand styles hierarchically  
+                expanded_styles = self.rym_hierarchy.expand_genres_hierarchically(list(all_styles))
+                
+                # Update the sets with expanded versions
+                all_genres = expanded_genres
+                all_styles = expanded_styles
+                
+                logger.info(f"After hierarchical expansion - Genres: {len(all_genres)}, Styles: {len(all_styles)}")
                 
                 # Deduplicate: remove any genres from styles to avoid duplication
                 all_styles = all_styles - all_genres

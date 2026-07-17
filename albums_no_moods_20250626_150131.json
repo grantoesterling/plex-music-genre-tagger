@@ -1,0 +1,2197 @@
+{
+  "export_info": {
+    "timestamp": "2025-06-26T15:01:31.933879",
+    "script_version": "1.0",
+    "description": "Albums from Plex music library with no moods assigned",
+    "total_albums_found": 116
+  },
+  "albums": [
+    {
+      "key": "/library/metadata/52924",
+      "title": "Classical Favorites",
+      "artist": "Academy of St Martin in the Fields, Sir Neville Marriner",
+      "year": 1986,
+      "added_at": "2025-05-31T04:23:43",
+      "updated_at": "2025-06-04T15:32:06",
+      "genres": [
+        "Classical Music",
+        "Western Classical Music"
+      ],
+      "styles": [
+        "Western Classical Music"
+      ],
+      "moods": [],
+      "track_count": 14
+    },
+    {
+      "key": "/library/metadata/10254",
+      "title": "Jazz Names",
+      "artist": "ADJAK∆",
+      "year": 2013,
+      "added_at": "2025-03-07T17:27:49",
+      "updated_at": "2025-03-07T17:27:55",
+      "genres": [
+        "Electronic",
+        "Glitch Hop",
+        "Nu Jazz"
+      ],
+      "styles": [
+        "Experimental Hip Hop",
+        "Glitch Hop",
+        "Lo-fi Hip Hop",
+        "Nu Jazz"
+      ],
+      "moods": [],
+      "track_count": 6
+    },
+    {
+      "key": "/library/metadata/26274",
+      "title": "La Gigantona",
+      "artist": "Alfonso Noel Lovo",
+      "year": 2010,
+      "added_at": "2025-03-09T23:18:08",
+      "updated_at": "2025-06-05T00:16:50",
+      "genres": [
+        "Rock",
+        "Jazz-Rock",
+        "Latin Jazz",
+        "Jazz",
+        "Psychedelic Rock",
+        "Jazz Fusion",
+        "Psychedelia"
+      ],
+      "styles": [
+        "Jazz Fusion",
+        "Jazz-Rock",
+        "Latin Jazz",
+        "Latin Rock",
+        "Psychedelic Rock",
+        "Flamenco Jazz"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/58256",
+      "title": "Serenades op. 22 & 44",
+      "artist": "Antonín Dvořák, Sir Neville Marriner, Academy of St Martin in the Fields",
+      "year": 1981,
+      "added_at": "2025-06-02T05:40:32",
+      "updated_at": "2025-06-04T20:43:32",
+      "genres": [
+        "Serenade",
+        "Western Classical Music",
+        "Romanticism",
+        "Classical Music",
+        "Orchestral Music"
+      ],
+      "styles": [
+        "Romanticism",
+        "Serenade",
+        "Orchestral Music"
+      ],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/47866",
+      "title": "Jazz at the Pawnshop 30th Anniversary",
+      "artist": "Arne Domnérus",
+      "year": 1977,
+      "added_at": "2025-04-01T19:08:56",
+      "updated_at": "2025-06-04T20:35:59",
+      "genres": [
+        "Jazz"
+      ],
+      "styles": [
+        "Jazz"
+      ],
+      "moods": [],
+      "track_count": 28
+    },
+    {
+      "key": "/library/metadata/9576",
+      "title": "ATIVAN COREA",
+      "artist": "ATIVAN COREA",
+      "year": null,
+      "added_at": "2025-03-07T17:22:58",
+      "updated_at": "2025-06-04T16:29:10",
+      "genres": [
+        "Hip Hop",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "styles": [
+        "Cloud Rap",
+        "Electronic",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "moods": [],
+      "track_count": 62
+    },
+    {
+      "key": "/library/metadata/55745",
+      "title": "1993-10-15: Oscillate, Bonds Club, Birmingham, UK",
+      "artist": "Autechre",
+      "year": 1993,
+      "added_at": "2025-06-02T03:19:30",
+      "updated_at": "2025-06-02T03:24:31",
+      "genres": [
+        "Ambient Techno",
+        "Dance",
+        "Electronic",
+        "Electronic Dance Music",
+        "IDM",
+        "Techno"
+      ],
+      "styles": [
+        "Ambient Techno",
+        "IDM"
+      ],
+      "moods": [],
+      "track_count": 3
+    },
+    {
+      "key": "/library/metadata/3552",
+      "title": "2001-05-09 - Toronto - Steam Whistle Brewing Co.",
+      "artist": "Autechre",
+      "year": 2001,
+      "added_at": "2025-03-07T16:38:30",
+      "updated_at": null,
+      "genres": [
+        "IDM"
+      ],
+      "styles": [
+        "IDM"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/3479",
+      "title": "Live at Domino",
+      "artist": "Autechre",
+      "year": 2010,
+      "added_at": "2025-03-07T16:37:41",
+      "updated_at": "2025-03-07T16:37:43",
+      "genres": [
+        "Experimental",
+        "Glitch",
+        "Industrial",
+        "Techno",
+        "IDM"
+      ],
+      "styles": [
+        "IDM"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/3543",
+      "title": "Live in Vancouver",
+      "artist": "Autechre",
+      "year": null,
+      "added_at": "2025-03-07T16:38:23",
+      "updated_at": "2025-03-07T16:38:26",
+      "genres": [
+        "Experimental",
+        "Glitch",
+        "Industrial",
+        "Techno",
+        "IDM"
+      ],
+      "styles": [
+        "IDM"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/55995",
+      "title": "The Tiffany Transcriptions",
+      "artist": "Bob Wills and His Texas Playboys",
+      "year": 2008,
+      "added_at": "2025-06-02T03:24:24",
+      "updated_at": "2025-06-05T05:50:26",
+      "genres": [
+        "Country",
+        "Western Swing"
+      ],
+      "styles": [
+        "Western Swing"
+      ],
+      "moods": [],
+      "track_count": 150
+    },
+    {
+      "key": "/library/metadata/67542",
+      "title": "Clean Sweep",
+      "artist": "Bobby Broom",
+      "year": 1981,
+      "added_at": "2025-06-02T21:28:55",
+      "updated_at": "2025-06-04T18:49:11",
+      "genres": [
+        "Jazz",
+        "Jazz-Funk",
+        "R&B",
+        "Funk"
+      ],
+      "styles": [
+        "Jazz-Funk",
+        "Smooth Jazz"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/10377",
+      "title": "Camera Obscura",
+      "artist": "Camera Obscura",
+      "year": 1984,
+      "added_at": "2025-03-07T17:28:31",
+      "updated_at": "2025-06-04T18:59:17",
+      "genres": [
+        "Ambient",
+        "Electronic"
+      ],
+      "styles": [
+        "Ambient",
+        "Electronic",
+        "Krautrock"
+      ],
+      "moods": [],
+      "track_count": 5
+    },
+    {
+      "key": "/library/metadata/72038",
+      "title": "Guitarra portuguesa",
+      "artist": "Carlos Paredes",
+      "year": null,
+      "added_at": "2025-06-26T14:30:36",
+      "updated_at": "2025-06-26T14:31:10",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/72034",
+      "title": "Movimento Perpétuo",
+      "artist": "Carlos Paredes",
+      "year": 1988,
+      "added_at": "2025-06-26T14:30:28",
+      "updated_at": "2025-06-26T14:31:44",
+      "genres": [
+        "Portuguese Music"
+      ],
+      "styles": [
+        "Global Jazz",
+        "European Folk"
+      ],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/32864",
+      "title": "I Love Cashcache 2",
+      "artist": "Cashcache!",
+      "year": 2020,
+      "added_at": "2025-03-11T18:48:44",
+      "updated_at": "2025-06-04T19:09:36",
+      "genres": [
+        "Hip Hop",
+        "Plugg",
+        "Southern Hip Hop",
+        "Trap"
+      ],
+      "styles": [
+        "Cloud Rap",
+        "Plugg",
+        "Pop Rap",
+        "Southern Hip Hop"
+      ],
+      "moods": [],
+      "track_count": 16
+    },
+    {
+      "key": "/library/metadata/32889",
+      "title": "☆extended playlist☆ｏ(＞＜；)○ Vol. 1",
+      "artist": "Casper Mcfadden",
+      "year": 2020,
+      "added_at": "2025-03-11T18:52:08",
+      "updated_at": "2025-03-11T18:52:11",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 17
+    },
+    {
+      "key": "/library/metadata/33284",
+      "title": "☆extended playlist☆ｏ(＞＜；)○ Vol. 2",
+      "artist": "Casper Mcfadden",
+      "year": 2020,
+      "added_at": "2025-03-11T19:58:55",
+      "updated_at": "2025-03-11T19:58:57",
+      "genres": [
+        "Electronic Dance Music",
+        "Hardcore Breaks",
+        "Hardcore [EDM]",
+        "Breakbeat",
+        "Electronic",
+        "Breakbeat Hardcore",
+        "Dance"
+      ],
+      "styles": [
+        "Hardcore Breaks",
+        "Breakcore"
+      ],
+      "moods": [],
+      "track_count": 16
+    },
+    {
+      "key": "/library/metadata/37853",
+      "title": "Clair de lune / Deux arabesques / Images I & II / Children's Corner",
+      "artist": "Claude Debussy; Philippe Entremont",
+      "year": 1992,
+      "added_at": "2025-03-13T04:28:04",
+      "updated_at": "2025-06-04T20:17:29",
+      "genres": [
+        "Impressionism",
+        "Classical Music",
+        "Modern Classical",
+        "Western Classical Music"
+      ],
+      "styles": [
+        "Impressionism"
+      ],
+      "moods": [],
+      "track_count": 19
+    },
+    {
+      "key": "/library/metadata/30484",
+      "title": "Greatest Hits",
+      "artist": "Con Funk Shun",
+      "year": 1997,
+      "added_at": "2025-03-11T15:17:11",
+      "updated_at": "2025-06-04T19:37:29",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/62637",
+      "title": "Recreational Kraut",
+      "artist": "David Moufang • Jordan Czamanski",
+      "year": 2023,
+      "added_at": "2025-06-02T09:53:01",
+      "updated_at": "2025-06-05T01:10:05",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/71167",
+      "title": "Darker Than Blue",
+      "artist": "Devon Russell",
+      "year": 2015,
+      "added_at": "2025-06-19T16:06:32",
+      "updated_at": "2025-06-19T16:06:40",
+      "genres": [
+        "Caribbean Music",
+        "Jamaican Music",
+        "R&B",
+        "Reggae",
+        "Soul"
+      ],
+      "styles": [
+        "Reggae",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/31471",
+      "title": "Sarcastic Disco, Volume 2",
+      "artist": "DJ Harvey",
+      "year": 2001,
+      "added_at": "2025-03-11T15:48:39",
+      "updated_at": "2025-03-11T15:48:46",
+      "genres": [
+        "House",
+        "Disco",
+        "Electro-Disco",
+        "Electronic Dance Music",
+        "Psychedelia",
+        "Psychedelic Rock",
+        "Rock",
+        "Space Rock",
+        "Dance",
+        "Electronic"
+      ],
+      "styles": [
+        "Space Rock",
+        "Spacesynth",
+        "Electro-Disco",
+        "Space Disco"
+      ],
+      "moods": [],
+      "track_count": 23
+    },
+    {
+      "key": "/library/metadata/30058",
+      "title": "Doris Troy Sings Just One Look & Other Memorable Selections",
+      "artist": "Doris Troy",
+      "year": 1963,
+      "added_at": "2025-03-10T22:52:51",
+      "updated_at": "2025-06-05T05:16:51",
+      "genres": [
+        "Soul",
+        "R&B",
+        "Rhythm & Blues"
+      ],
+      "styles": [
+        "Rhythm & Blues",
+        "Soul",
+        "Soul Blues"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/32677",
+      "title": "Parapet",
+      "artist": "dslugboy",
+      "year": 2022,
+      "added_at": "2025-03-11T18:29:54",
+      "updated_at": "2025-03-11T18:30:03",
+      "genres": [
+        "Electronic Dance Music",
+        "Experimental",
+        "Glitch",
+        "Drum And Bass",
+        "Electronic",
+        "Dance",
+        "Ambient"
+      ],
+      "styles": [
+        "Ambient",
+        "Glitch",
+        "Hardcore Breaks",
+        "IDM",
+        "Plunderphonics",
+        "Drum and Bass"
+      ],
+      "moods": [],
+      "track_count": 6
+    },
+    {
+      "key": "/library/metadata/56646",
+      "title": "The Definitive Hits Collection",
+      "artist": "Ernest Tubb",
+      "year": 2001,
+      "added_at": "2025-03-11T04:03:12",
+      "updated_at": "2025-06-05T05:18:00",
+      "genres": [
+        "Country",
+        "Honky Tonk"
+      ],
+      "styles": [
+        "Traditional Country",
+        "Honky Tonk"
+      ],
+      "moods": [],
+      "track_count": 40
+    },
+    {
+      "key": "/library/metadata/42906",
+      "title": "Best of 1969–1974",
+      "artist": "Fleetwood Mac",
+      "year": 2024,
+      "added_at": "2025-03-15T20:08:18",
+      "updated_at": "2025-06-04T21:26:30",
+      "genres": [],
+      "styles": [
+        "Blues Rock",
+        "Pop Rock"
+      ],
+      "moods": [],
+      "track_count": 19
+    },
+    {
+      "key": "/library/metadata/71203",
+      "title": "Fire Fire",
+      "artist": "Flora Adams",
+      "year": 2025,
+      "added_at": "2025-06-19T16:07:16",
+      "updated_at": "2025-06-19T16:07:19",
+      "genres": [
+        "Caribbean Music",
+        "Jamaican Music",
+        "Reggae"
+      ],
+      "styles": [
+        "Reggae"
+      ],
+      "moods": [],
+      "track_count": 2
+    },
+    {
+      "key": "/library/metadata/45284",
+      "title": "Brand New",
+      "artist": "Gary Stewart",
+      "year": 1988,
+      "added_at": "2025-03-19T21:40:38",
+      "updated_at": "2025-06-05T04:31:38",
+      "genres": [
+        "Honky Tonk",
+        "Country"
+      ],
+      "styles": [
+        "Country",
+        "Honky Tonk"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/46484",
+      "title": "Little Junior",
+      "artist": "Gary Stewart",
+      "year": 1978,
+      "added_at": "2025-03-20T20:16:00",
+      "updated_at": "2025-06-05T04:32:42",
+      "genres": [
+        "Country",
+        "Honky Tonk"
+      ],
+      "styles": [
+        "Honky Tonk"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/46536",
+      "title": "Steppin' Out",
+      "artist": "Gary Stewart",
+      "year": 1976,
+      "added_at": "2025-03-20T20:16:37",
+      "updated_at": "2025-06-05T04:33:05",
+      "genres": [
+        "Country",
+        "Honky Tonk"
+      ],
+      "styles": [
+        "Honky Tonk",
+        "Rockabilly",
+        "Southern Rock",
+        "Country Rock"
+      ],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/45278",
+      "title": "You're Not the Woman You Used to Be",
+      "artist": "Gary Stewart",
+      "year": 1975,
+      "added_at": "2025-03-19T21:40:36",
+      "updated_at": "2025-06-05T04:34:13",
+      "genres": [
+        "Country",
+        "Honky Tonk"
+      ],
+      "styles": [
+        "Honky Tonk"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/45300",
+      "title": "Your Place or Mine",
+      "artist": "Gary Stewart",
+      "year": 1977,
+      "added_at": "2025-03-19T21:40:54",
+      "updated_at": "2025-06-05T04:34:54",
+      "genres": [
+        "Honky Tonk",
+        "Country"
+      ],
+      "styles": [
+        "Country",
+        "Honky Tonk",
+        "Country Rock"
+      ],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/43599",
+      "title": "Luar",
+      "artist": "Gilberto Gil",
+      "year": 1981,
+      "added_at": "2025-03-17T16:28:08",
+      "updated_at": "2025-06-04T22:07:57",
+      "genres": [
+        "Samba",
+        "Soul",
+        "MPB",
+        "Brazilian Music"
+      ],
+      "styles": [
+        "MPB"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/57414",
+      "title": "Credit to the Edit, Volume 2",
+      "artist": "Greg Wilson",
+      "year": 2009,
+      "added_at": "2025-03-11T04:05:07",
+      "updated_at": "2025-06-05T05:51:19",
+      "genres": [
+        "Dance",
+        "Electronic Dance Music",
+        "Electronic",
+        "Disco",
+        "Synthpop",
+        "Pop",
+        "Nu-Disco"
+      ],
+      "styles": [
+        "Disco",
+        "Nu-Disco",
+        "Synthpop"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/8735",
+      "title": "Demo",
+      "artist": "H20$$$SPORTS$$$",
+      "year": 2012,
+      "added_at": "2025-03-07T17:17:05",
+      "updated_at": "2025-06-04T22:32:12",
+      "genres": [
+        "Hip Hop",
+        "Instrumental Hip Hop"
+      ],
+      "styles": [
+        "Instrumental Hip Hop"
+      ],
+      "moods": [],
+      "track_count": 7
+    },
+    {
+      "key": "/library/metadata/57744",
+      "title": "H20 CATALOG 2014-2015 . UNRELEASED. R.I.P H20SPORTS",
+      "artist": "H20$$$SPORTS$$$",
+      "year": 2017,
+      "added_at": "2025-06-02T05:34:36",
+      "updated_at": "2025-06-02T05:42:54",
+      "genres": [
+        "Hip Hop",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "styles": [
+        "Cloud Rap",
+        "Electronic",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "moods": [],
+      "track_count": 44
+    },
+    {
+      "key": "/library/metadata/8763",
+      "title": "VOL. 2",
+      "artist": "H20$$$SPORTS$$$",
+      "year": 2013,
+      "added_at": "2025-03-07T17:17:19",
+      "updated_at": "2025-06-04T22:34:34",
+      "genres": [
+        "Hip Hop",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "styles": [
+        "Cloud Rap",
+        "Electronic",
+        "Instrumental Hip Hop",
+        "Trap"
+      ],
+      "moods": [],
+      "track_count": 20
+    },
+    {
+      "key": "/library/metadata/4227",
+      "title": "Hailu Mergia and Zula Band",
+      "artist": "Hailu Mergia",
+      "year": 1985,
+      "added_at": "2025-03-07T16:42:34",
+      "updated_at": "2025-03-14T21:28:56",
+      "genres": [
+        "African Music",
+        "Ethio-Jazz",
+        "Ethiopic Music",
+        "Jazz",
+        "Northeastern African Music",
+        "Tizita"
+      ],
+      "styles": [
+        "Ethio-Jazz",
+        "Tizita"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/4216",
+      "title": "Unknown Cassette",
+      "artist": "Hailu Mergia",
+      "year": null,
+      "added_at": "2025-03-07T16:42:30",
+      "updated_at": "2025-03-14T21:29:02",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/37350",
+      "title": "Yewedeke Abeba",
+      "artist": "Hailu Mergia",
+      "year": 1998,
+      "added_at": "2025-03-13T03:33:56",
+      "updated_at": "2025-03-13T03:33:58",
+      "genres": [
+        "Jazz",
+        "Northeastern African Music",
+        "R&B",
+        "Jazz-Funk",
+        "Ethio-Jazz",
+        "Ethiopic Music",
+        "African Music",
+        "Funk"
+      ],
+      "styles": [
+        "Boogie",
+        "Ethio-Jazz",
+        "Jazz-Funk",
+        "Tizita"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/45228",
+      "title": "Pikku midinetti",
+      "artist": "Helena Siltala",
+      "year": 1971,
+      "added_at": "2025-03-19T21:38:43",
+      "updated_at": "2025-06-05T03:48:24",
+      "genres": [
+        "European Music",
+        "Jazz Pop",
+        "Pop",
+        "Schlager",
+        "Traditional Pop"
+      ],
+      "styles": [
+        "Jazz Pop",
+        "Schlager",
+        "Traditional Pop"
+      ],
+      "moods": [],
+      "track_count": 14
+    },
+    {
+      "key": "/library/metadata/6565",
+      "title": "እስቲ ተናገሩ",
+      "artist": "Hirut Bèqèlé & Dahlak Band",
+      "year": 1974,
+      "added_at": "2025-03-07T17:01:05",
+      "updated_at": "2025-03-07T17:01:21",
+      "genres": [
+        "African Music",
+        "Ethiopic Music",
+        "Northeastern African Music",
+        "Tizita"
+      ],
+      "styles": [
+        "Azmari",
+        "Tizita"
+      ],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/71219",
+      "title": "Hell & Sorrow",
+      "artist": "Hortense Ellis",
+      "year": 2024,
+      "added_at": "2025-06-19T16:07:53",
+      "updated_at": "2025-06-19T16:07:54",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 2
+    },
+    {
+      "key": "/library/metadata/70343",
+      "title": "Tropical Funk Experience: Island Jump-Up: Caribbean Funk, Soul, Reggae, Calypso and Afro Grooves 1968-1975",
+      "artist": "Hugo Mendez Presents",
+      "year": 2009,
+      "added_at": "2025-06-08T19:08:42",
+      "updated_at": "2025-06-08T19:09:08",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 20
+    },
+    {
+      "key": "/library/metadata/6527",
+      "title": "Early Tuareg Recordings",
+      "artist": "Intayaden Ag Ablil",
+      "year": 1993,
+      "added_at": "2025-03-07T17:00:38",
+      "updated_at": "2025-03-07T17:00:43",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/69447",
+      "title": "The Romantic Moods of Jackie Gleason",
+      "artist": "Jackie Gleason",
+      "year": 1996,
+      "added_at": "2025-06-05T18:47:12",
+      "updated_at": "2025-06-05T18:49:00",
+      "genres": [
+        "Easy Listening",
+        "Lounge"
+      ],
+      "styles": [
+        "Big Band",
+        "Light Music",
+        "Lounge"
+      ],
+      "moods": [],
+      "track_count": 72
+    },
+    {
+      "key": "/library/metadata/31291",
+      "title": "Velvet Brass",
+      "artist": "Jackie Gleason",
+      "year": 1957,
+      "added_at": "2025-03-11T15:44:11",
+      "updated_at": "2025-03-11T15:44:14",
+      "genres": [
+        "Easy Listening"
+      ],
+      "styles": [
+        "Easy Listening"
+      ],
+      "moods": [],
+      "track_count": 16
+    },
+    {
+      "key": "/library/metadata/38219",
+      "title": "PRINCE OF RAIN, BAD BOY FLAME",
+      "artist": "James Ferraro",
+      "year": 2012,
+      "added_at": "2025-03-13T15:08:10",
+      "updated_at": "2025-06-14T13:21:58",
+      "genres": [
+        "Drone",
+        "Plunderphonics",
+        "Progressive Breaks",
+        "Progressive Trance",
+        "Vaporwave",
+        "Wonky"
+      ],
+      "styles": [],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/28627",
+      "title": "Mix-Up, Volume 2",
+      "artist": "Jeff Mills",
+      "year": 1996,
+      "added_at": "2025-03-10T18:35:09",
+      "updated_at": "2025-06-05T00:55:08",
+      "genres": [
+        "Electronic Dance Music",
+        "Techno",
+        "Detroit Techno"
+      ],
+      "styles": [
+        "Acid Techno",
+        "Detroit Techno"
+      ],
+      "moods": [],
+      "track_count": 38
+    },
+    {
+      "key": "/library/metadata/48949",
+      "title": "2023-03-22 Belasco Theatre, Los Angeles, CA, USA",
+      "artist": "Joanna Newsom",
+      "year": 2023,
+      "added_at": "2025-04-09T02:01:03",
+      "updated_at": "2025-04-09T02:01:06",
+      "genres": [
+        "Freak Folk",
+        "Progressive Folk",
+        "Folk",
+        "Singer-Songwriter",
+        "Psychedelia",
+        "Chamber Folk",
+        "Psychedelic Folk",
+        "Contemporary Folk"
+      ],
+      "styles": [
+        "Progressive Folk",
+        "Singer-Songwriter",
+        "Chamber Folk",
+        "Freak Folk"
+      ],
+      "moods": [],
+      "track_count": 7
+    },
+    {
+      "key": "/library/metadata/48890",
+      "title": "2024-05-15 Masonic Lodge, Los Angeles, CA - Night 1",
+      "artist": "Joanna Newsom",
+      "year": 2024,
+      "added_at": "2025-04-09T01:50:26",
+      "updated_at": "2025-06-05T01:32:05",
+      "genres": [
+        "Chamber Folk",
+        "Contemporary Folk",
+        "Folk",
+        "Freak Folk",
+        "Progressive Folk",
+        "Psychedelia",
+        "Psychedelic Folk",
+        "Singer-Songwriter"
+      ],
+      "styles": [
+        "Chamber Folk",
+        "Freak Folk",
+        "Progressive Folk",
+        "Singer-Songwriter"
+      ],
+      "moods": [],
+      "track_count": 15
+    },
+    {
+      "key": "/library/metadata/48997",
+      "title": "Live at the Club Ampere (April 7th, 2005)",
+      "artist": "Joanna Newsom",
+      "year": 2005,
+      "added_at": "2025-04-09T02:20:47",
+      "updated_at": "2025-04-09T02:21:02",
+      "genres": [
+        "Freak Folk",
+        "Indie Folk",
+        "Chamber Folk",
+        "Contemporary Folk",
+        "Folk",
+        "Progressive Folk",
+        "Singer-Songwriter"
+      ],
+      "styles": [
+        "Chamber Folk",
+        "Progressive Folk",
+        "Singer-Songwriter"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/48970",
+      "title": "Over The Years: A Collection of Joanna Newsom Live Performances",
+      "artist": "Joanna Newsom",
+      "year": 2020,
+      "added_at": "2025-04-09T02:18:09",
+      "updated_at": "2025-04-09T02:18:13",
+      "genres": [
+        "Indie Folk",
+        "Chamber Folk",
+        "Contemporary Folk",
+        "Folk",
+        "Freak Folk",
+        "Progressive Folk",
+        "Psychedelia",
+        "Psychedelic Folk",
+        "Singer-Songwriter"
+      ],
+      "styles": [
+        "Chamber Folk",
+        "Freak Folk",
+        "Progressive Folk",
+        "Singer-Songwriter"
+      ],
+      "moods": [],
+      "track_count": 18
+    },
+    {
+      "key": "/library/metadata/63413",
+      "title": "Brandenburg Concertos nos. 1–6 / Orchestral Suites nos. 1–4",
+      "artist": "Johann Sebastian Bach; Academy of St Martin in the Fields, Sir Neville Marriner",
+      "year": 1985,
+      "added_at": "2025-06-02T10:01:10",
+      "updated_at": "2025-06-04T16:45:48",
+      "genres": [
+        "European Music",
+        "Western Classical Music",
+        "Baroque Music",
+        "Concerto",
+        "Classical Music",
+        "Orchestral Music"
+      ],
+      "styles": [
+        "Baroque Music",
+        "Concerto"
+      ],
+      "moods": [],
+      "track_count": 43
+    },
+    {
+      "key": "/library/metadata/27740",
+      "title": "Bristol's Creme",
+      "artist": "Johnny Bristol",
+      "year": 2010,
+      "added_at": "2025-03-10T16:51:52",
+      "updated_at": "2025-06-04T18:46:12",
+      "genres": [
+        "Soul",
+        "R&B",
+        "Smooth Soul"
+      ],
+      "styles": [
+        "Funk",
+        "Smooth Soul"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/63180",
+      "title": "Alô, alô, como vai?",
+      "artist": "Jorge Ben Jor",
+      "year": 1980,
+      "added_at": "2025-06-02T09:58:39",
+      "updated_at": "2025-06-04T17:54:04",
+      "genres": [
+        "Dance",
+        "R&B",
+        "Boogie",
+        "Disco"
+      ],
+      "styles": [
+        "Boogie",
+        "Disco"
+      ],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/59006",
+      "title": "Kompilation",
+      "artist": "Jürgen Paape",
+      "year": 2010,
+      "added_at": "2025-03-12T15:14:53",
+      "updated_at": "2025-06-02T07:50:58",
+      "genres": [
+        "Electronic",
+        "House",
+        "Techno",
+        "Tech House",
+        "Dance",
+        "Electronic Dance Music",
+        "Minimal Techno"
+      ],
+      "styles": [
+        "Minimal Techno",
+        "Tech House"
+      ],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/30173",
+      "title": "雨に花",
+      "artist": "Lamp",
+      "year": 2015,
+      "added_at": "2025-03-11T04:01:55",
+      "updated_at": "2025-06-05T00:00:05",
+      "genres": [
+        "Bossa Nova",
+        "Shibuya-kei"
+      ],
+      "styles": [
+        "Bossa Nova",
+        "Samba-Choro",
+        "Shibuya-Kei"
+      ],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/24938",
+      "title": "Joey",
+      "artist": "Little Beaver",
+      "year": 1972,
+      "added_at": "2025-03-09T21:51:03",
+      "updated_at": "2025-03-09T21:51:10",
+      "genres": [
+        "R&B",
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "styles": [
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 7
+    },
+    {
+      "key": "/library/metadata/45408",
+      "title": "Nova Bossa Nova",
+      "artist": "Marcos Valle",
+      "year": 1997,
+      "added_at": "2025-03-19T21:57:02",
+      "updated_at": "2025-06-05T05:26:53",
+      "genres": [
+        "Jazz",
+        "Samba-Jazz",
+        "Samba",
+        "Brazilian Music",
+        "Bossa Nova"
+      ],
+      "styles": [
+        "Bossa Nova",
+        "Samba",
+        "Samba-Jazz"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/43911",
+      "title": "UNO",
+      "artist": "Masahiro Yoshida",
+      "year": null,
+      "added_at": "2025-03-17T18:33:11",
+      "updated_at": "2025-03-17T18:33:13",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/29684",
+      "title": "“Comin’ Home Baby!”",
+      "artist": "Mel Tormé",
+      "year": 1962,
+      "added_at": "2025-03-10T22:43:55",
+      "updated_at": "2025-06-05T05:12:07",
+      "genres": [
+        "Traditional Pop",
+        "Vocal Jazz",
+        "Jazz",
+        "Pop"
+      ],
+      "styles": [
+        "Standards",
+        "Traditional Pop",
+        "Vocal Jazz"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/30314",
+      "title": "Greatest Hits",
+      "artist": "Midnight Star",
+      "year": 1987,
+      "added_at": "2025-03-11T04:05:31",
+      "updated_at": "2025-06-02T13:13:34",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/45164",
+      "title": "Nightshade",
+      "artist": "Miles Maeda",
+      "year": 2003,
+      "added_at": "2025-03-19T19:41:56",
+      "updated_at": "2025-03-19T19:41:57",
+      "genres": [
+        "Broken Beat",
+        "Dance",
+        "Electronic",
+        "Electronic Dance Music",
+        "Garage House",
+        "House"
+      ],
+      "styles": [
+        "Broken Beat",
+        "Deep House",
+        "Funky House",
+        "Garage House"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/34787",
+      "title": "All I Do",
+      "artist": "MJG",
+      "year": 2009,
+      "added_at": "2025-03-12T13:09:54",
+      "updated_at": "2025-06-05T00:59:09",
+      "genres": [
+        "Hip Hop",
+        "Southern Hip Hop"
+      ],
+      "styles": [
+        "Hip Hop",
+        "Southern Hip Hop"
+      ],
+      "moods": [],
+      "track_count": 6
+    },
+    {
+      "key": "/library/metadata/62620",
+      "title": "Mouly Studio Set",
+      "artist": "Mouly",
+      "year": 1995,
+      "added_at": "2025-06-02T09:52:52",
+      "updated_at": "2025-06-02T10:16:05",
+      "genres": [
+        "Atmospheric Drum and Bass",
+        "Dance",
+        "Drum And Bass",
+        "Electronic",
+        "Electronic Dance Music"
+      ],
+      "styles": [
+        "Atmospheric Drum and Bass",
+        "Jazzstep",
+        "Jungle"
+      ],
+      "moods": [],
+      "track_count": 15
+    },
+    {
+      "key": "/library/metadata/10095",
+      "title": "[Unknown Album]",
+      "artist": "Nathan Original",
+      "year": null,
+      "added_at": "2025-03-07T17:26:10",
+      "updated_at": "2025-06-23T11:00:13",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/47435",
+      "title": "Room",
+      "artist": "Nels Cline & Julian Lage",
+      "year": 2014,
+      "added_at": "2025-03-31T17:46:31",
+      "updated_at": "2025-06-04T19:23:15",
+      "genres": [
+        "Jazz",
+        "Free Jazz",
+        "Avant-Garde Jazz"
+      ],
+      "styles": [
+        "Free Jazz",
+        "Jazz"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/6048",
+      "title": "XLR8R 184",
+      "artist": "Nicolas Jaar",
+      "year": 2011,
+      "added_at": "2025-03-07T16:57:17",
+      "updated_at": "2025-03-07T16:57:38",
+      "genres": [
+        "Electronic",
+        "House",
+        "Microhouse",
+        "Techno"
+      ],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/8038",
+      "title": "aaa",
+      "artist": "nipple tapes",
+      "year": 2011,
+      "added_at": "2025-03-07T17:12:44",
+      "updated_at": "2025-03-07T17:12:51",
+      "genres": [
+        "Experimental",
+        "Hip Hop",
+        "Instrumental Hip Hop",
+        "Plunderphonics"
+      ],
+      "styles": [
+        "Instrumental Hip Hop",
+        "Jazz Rap",
+        "Lo-fi Hip Hop",
+        "Plunderphonics"
+      ],
+      "moods": [],
+      "track_count": 7
+    },
+    {
+      "key": "/library/metadata/10816",
+      "title": "*NXSTA MIXX* \"$QUIDRIFIC\" #HEXXRIFIC #2020",
+      "artist": "NXSTA",
+      "year": 2020,
+      "added_at": "2025-03-07T17:31:26",
+      "updated_at": "2025-03-07T17:31:27",
+      "genres": [
+        "Experimental Hip Hop",
+        "Hip Hop",
+        "Southern Hip Hop",
+        "Trap"
+      ],
+      "styles": [
+        "Chopped and Screwed",
+        "Experimental Hip Hop",
+        "Glitch Hop",
+        "Nightcore",
+        "Southern Hip Hop",
+        "Trap"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/5168",
+      "title": "Heavenly Mix (528Hz)",
+      "artist": "Playboi Carti",
+      "year": null,
+      "added_at": "2025-03-07T16:51:13",
+      "updated_at": "2025-03-07T16:51:15",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/31070",
+      "title": "Time / I Can Make It With You",
+      "artist": "Pozo-Seco Singers",
+      "year": 1996,
+      "added_at": "2025-03-11T15:37:03",
+      "updated_at": "2025-06-05T02:43:38",
+      "genres": [
+        "Folk"
+      ],
+      "styles": [],
+      "moods": [],
+      "track_count": 24
+    },
+    {
+      "key": "/library/metadata/62142",
+      "title": "Loring Park Sessions '77",
+      "artist": "Prince",
+      "year": 2012,
+      "added_at": "2025-06-02T09:48:07",
+      "updated_at": "2025-06-05T02:49:14",
+      "genres": [
+        "Funk",
+        "Jazz",
+        "Jazz-Funk",
+        "R&B"
+      ],
+      "styles": [
+        "Jazz-Funk"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/60975",
+      "title": "Prins Thomas Presents Cosmo Galactic Prism",
+      "artist": "Prins Thomas",
+      "year": 2007,
+      "added_at": "2025-03-13T16:16:32",
+      "updated_at": "2025-06-05T05:07:50",
+      "genres": [
+        "Electronic",
+        "Dance",
+        "Electronic Dance Music",
+        "Disco",
+        "Nu-Disco"
+      ],
+      "styles": [
+        "Nu-Disco",
+        "Disco",
+        "House",
+        "Nu Jazz"
+      ],
+      "moods": [],
+      "track_count": 36
+    },
+    {
+      "key": "/library/metadata/7660",
+      "title": "It Won't Be Easy",
+      "artist": "Psychic Diet",
+      "year": 2017,
+      "added_at": "2025-03-07T17:10:13",
+      "updated_at": "2025-03-07T17:10:21",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 7
+    },
+    {
+      "key": "/library/metadata/25641",
+      "title": "Apollo",
+      "artist": "Ronald Langestraat",
+      "year": 2019,
+      "added_at": "2025-03-09T22:59:29",
+      "updated_at": "2025-03-09T22:59:39",
+      "genres": [
+        "Jazz",
+        "Jazz Fusion"
+      ],
+      "styles": [
+        "Jazz Fusion"
+      ],
+      "moods": [],
+      "track_count": 8
+    },
+    {
+      "key": "/library/metadata/25735",
+      "title": "Light Years Away",
+      "artist": "Ronald Langestraat",
+      "year": 2022,
+      "added_at": "2025-03-09T23:01:14",
+      "updated_at": "2025-03-09T23:01:24",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 9
+    },
+    {
+      "key": "/library/metadata/11498",
+      "title": "Live at WREK",
+      "artist": "Safari Williams",
+      "year": 2018,
+      "added_at": "2025-03-07T17:35:48",
+      "updated_at": "2025-03-07T17:35:53",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 14
+    },
+    {
+      "key": "/library/metadata/30603",
+      "title": "Sam Cooke at the Copa",
+      "artist": "Sam Cooke",
+      "year": 1964,
+      "added_at": "2025-03-11T15:23:22",
+      "updated_at": "2025-06-04T19:50:58",
+      "genres": [
+        "Soul",
+        "R&B"
+      ],
+      "styles": [
+        "Big Band",
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/29797",
+      "title": "The Wonderful World of Sam Cooke",
+      "artist": "Sam Cooke",
+      "year": 1960,
+      "added_at": "2025-03-10T22:46:54",
+      "updated_at": "2025-06-04T19:53:10",
+      "genres": [
+        "R&B",
+        "Gospel"
+      ],
+      "styles": [
+        "Gospel",
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/3715",
+      "title": "Calypso Zest",
+      "artist": "Sensational Roots",
+      "year": null,
+      "added_at": "2025-03-07T16:39:45",
+      "updated_at": "2025-03-07T16:39:49",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/31017",
+      "title": "The 12″ Collection",
+      "artist": "Shalamar",
+      "year": 1993,
+      "added_at": "2025-03-11T15:35:35",
+      "updated_at": "2025-06-05T03:40:45",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/7400",
+      "title": "Unreleased Live Set (May 2nd 2020 - NTS 1 Radio)",
+      "artist": "Standing on the Corner",
+      "year": null,
+      "added_at": "2025-03-07T17:08:11",
+      "updated_at": "2025-03-07T17:08:20",
+      "genres": [
+        "Hip Hop",
+        "Hypnagogic Pop",
+        "Jazz",
+        "Psychedelic Soul",
+        "Soul",
+        "Sound Collage"
+      ],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/3724",
+      "title": "Peel Session 1981",
+      "artist": "Stimulin",
+      "year": 1981,
+      "added_at": "2025-03-07T16:39:51",
+      "updated_at": "2025-03-07T16:39:53",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 4
+    },
+    {
+      "key": "/library/metadata/9860",
+      "title": "Sister Nature",
+      "artist": "Sumbu Dunia",
+      "year": 2015,
+      "added_at": "2025-03-07T17:24:40",
+      "updated_at": "2025-03-07T17:24:43",
+      "genres": [
+        "Electroacoustic",
+        "Electronic",
+        "Experimental",
+        "Sound Collage"
+      ],
+      "styles": [
+        "Drone",
+        "Electroacoustic",
+        "Musique Concrète",
+        "Noise",
+        "Plunderphonics",
+        "Sound Collage"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/10711",
+      "title": "Contacteer",
+      "artist": "Super Minerals",
+      "year": 2011,
+      "added_at": "2025-03-07T17:30:46",
+      "updated_at": "2025-06-05T04:46:23",
+      "genres": [
+        "Ambient",
+        "Electroacoustic",
+        "Electronic",
+        "Experimental"
+      ],
+      "styles": [
+        "Ambient",
+        "Electroacoustic",
+        "Musique Concrète",
+        "Tape Music",
+        "Tribal Ambient"
+      ],
+      "moods": [],
+      "track_count": 2
+    },
+    {
+      "key": "/library/metadata/8015",
+      "title": "No. 2 | Aloe Blend",
+      "artist": "Swarvy",
+      "year": null,
+      "added_at": "2025-03-07T17:12:38",
+      "updated_at": "2025-03-07T17:12:49",
+      "genres": [
+        "Instrumental Hip Hop",
+        "Hip Hop"
+      ],
+      "styles": [
+        "Hip Hop"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/34751",
+      "title": "Better Days",
+      "artist": "The Blackbyrds",
+      "year": 1980,
+      "added_at": "2025-03-12T13:08:54",
+      "updated_at": "2025-06-04T18:12:35",
+      "genres": [
+        "Funk",
+        "R&B",
+        "Dance",
+        "Disco"
+      ],
+      "styles": [
+        "Funk",
+        "Disco"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/34008",
+      "title": "Come Softly to Me: The Very Best of the Fleetwoods",
+      "artist": "The Fleetwoods",
+      "year": 1993,
+      "added_at": "2025-03-12T01:32:10",
+      "updated_at": "2025-06-04T21:30:58",
+      "genres": [
+        "Doo-Wop",
+        "R&B",
+        "Vocal Group"
+      ],
+      "styles": [
+        "Doo-Wop",
+        "Traditional Pop",
+        "Vocal Group"
+      ],
+      "moods": [],
+      "track_count": 28
+    },
+    {
+      "key": "/library/metadata/50622",
+      "title": "Great Hits",
+      "artist": "The Mills Brothers",
+      "year": 1959,
+      "added_at": "2025-05-06T16:02:47",
+      "updated_at": "2025-06-05T00:53:56",
+      "genres": [
+        "Pop",
+        "Traditional Pop",
+        "Vocal Group"
+      ],
+      "styles": [
+        "Traditional Pop",
+        "Vocal Group"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/25825",
+      "title": "Longshot for Your Love",
+      "artist": "The Pale Fountains",
+      "year": 1998,
+      "added_at": "2025-03-09T23:02:08",
+      "updated_at": "2025-06-02T11:42:35",
+      "genres": [
+        "Pop Rock",
+        "Sophisti-Pop",
+        "Indie Pop",
+        "Jangle Pop",
+        "Rock",
+        "Alternative Rock",
+        "Pop",
+        "Neo-Acoustic"
+      ],
+      "styles": [
+        "Bossa Nova",
+        "Chamber Pop",
+        "Neo-Acoustic",
+        "Sophisti-Pop",
+        "Jangle Pop"
+      ],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/35637",
+      "title": "Hearts in Their Eyes: Celebrating 50 Years of Harmony & Jangle",
+      "artist": "The Searchers",
+      "year": 2012,
+      "added_at": "2025-03-12T15:20:40",
+      "updated_at": "2025-06-05T03:36:06",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 33
+    },
+    {
+      "key": "/library/metadata/1729",
+      "title": "Extra Life",
+      "artist": "Traumprinz",
+      "year": 2023,
+      "added_at": "2025-03-06T15:32:27",
+      "updated_at": "2025-03-07T14:51:09",
+      "genres": [
+        "Ambient House",
+        "Chillout",
+        "Dance",
+        "Electronic",
+        "Electronic Dance Music",
+        "House"
+      ],
+      "styles": [
+        "Ambient House",
+        "Ambient Techno",
+        "Ambient Trance",
+        "Deep House"
+      ],
+      "moods": [],
+      "track_count": 6
+    },
+    {
+      "key": "/library/metadata/1715",
+      "title": "To All Dancers",
+      "artist": "Traumprinz",
+      "year": 2021,
+      "added_at": "2025-03-06T15:30:38",
+      "updated_at": "2025-03-14T21:08:29",
+      "genres": [
+        "Ambient Trance",
+        "Ambient",
+        "Breakbeat",
+        "Dance",
+        "Electronic",
+        "Electronic Dance Music"
+      ],
+      "styles": [
+        "Ambient",
+        "Ambient Trance",
+        "Atmospheric Drum and Bass",
+        "Breakbeat"
+      ],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/70607",
+      "title": "Between or Beyond the Northern Lights",
+      "artist": "Various Artists",
+      "year": 2002,
+      "added_at": "2025-06-13T16:48:09",
+      "updated_at": "2025-06-13T16:48:35",
+      "genres": [
+        "Jazz",
+        "Jazz Fusion"
+      ],
+      "styles": [
+        "Jazz-Rock",
+        "Exotica",
+        "Hard Bop",
+        "Modern Creative",
+        "Post-Bop",
+        "Jazz",
+        "Jazz Fusion",
+        "Jazz-Funk"
+      ],
+      "moods": [],
+      "track_count": 10
+    },
+    {
+      "key": "/library/metadata/63470",
+      "title": "Bliss Out For Days",
+      "artist": "Various Artists",
+      "year": 2024,
+      "added_at": "2025-03-11T16:05:11",
+      "updated_at": "2025-06-04T21:04:21",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 18
+    },
+    {
+      "key": "/library/metadata/70528",
+      "title": "Calypso Awakening",
+      "artist": "Various Artists",
+      "year": 2000,
+      "added_at": "2025-06-10T19:02:22",
+      "updated_at": "2025-06-10T19:02:27",
+      "genres": [],
+      "styles": [
+        "Calypso"
+      ],
+      "moods": [],
+      "track_count": 21
+    },
+    {
+      "key": "/library/metadata/63457",
+      "title": "Cosmic American Music: Motel California",
+      "artist": "Various Artists",
+      "year": 2024,
+      "added_at": "2025-03-09T16:13:52",
+      "updated_at": "2025-06-04T21:06:28",
+      "genres": [
+        "Country Rock",
+        "Rock"
+      ],
+      "styles": [
+        "Soft Rock",
+        "Country Rock",
+        "Singer-Songwriter",
+        "Folk Rock",
+        "Progressive Country"
+      ],
+      "moods": [],
+      "track_count": 20
+    },
+    {
+      "key": "/library/metadata/66942",
+      "title": "Cult Cargo: Salsa boricua de Chicago",
+      "artist": "Various Artists",
+      "year": 2011,
+      "added_at": "2025-06-02T13:12:05",
+      "updated_at": "2025-06-04T21:10:28",
+      "genres": [
+        "Hispanic American Music",
+        "Salsa"
+      ],
+      "styles": [
+        "Salsa"
+      ],
+      "moods": [],
+      "track_count": 15
+    },
+    {
+      "key": "/library/metadata/14256",
+      "title": "Disco Love: Rare Disco & Soul Uncovered",
+      "artist": "Various Artists",
+      "year": 2010,
+      "added_at": "2025-03-07T23:26:11",
+      "updated_at": "2025-06-04T21:11:14",
+      "genres": [
+        "Dance",
+        "Disco"
+      ],
+      "styles": [
+        "Disco",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 14
+    },
+    {
+      "key": "/library/metadata/66905",
+      "title": "Eccentric Soul: The Saadia Label",
+      "artist": "Various Artists",
+      "year": 2017,
+      "added_at": "2025-06-02T13:11:23",
+      "updated_at": "2025-06-24T07:10:12",
+      "genres": [
+        "R&B",
+        "Southern Soul",
+        "Soul",
+        "Funk"
+      ],
+      "styles": [
+        "Funk",
+        "Southern Soul",
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 15
+    },
+    {
+      "key": "/library/metadata/66893",
+      "title": "Eccentric Soul: The Shoestring Label",
+      "artist": "Various Artists",
+      "year": 2024,
+      "added_at": "2025-06-02T13:11:13",
+      "updated_at": "2025-06-04T21:14:08",
+      "genres": [
+        "R&B",
+        "Funk"
+      ],
+      "styles": [
+        "Soul",
+        "Funk",
+        "Disco"
+      ],
+      "moods": [],
+      "track_count": 11
+    },
+    {
+      "key": "/library/metadata/66879",
+      "title": "Eccentric Soul: The Tammy Label",
+      "artist": "Various Artists",
+      "year": 2024,
+      "added_at": "2025-06-02T13:10:35",
+      "updated_at": "2025-06-04T21:14:32",
+      "genres": [
+        "Soul",
+        "R&B"
+      ],
+      "styles": [
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/67908",
+      "title": "If I Had A Pair Of Wings - Jamaican Doo Wop, Vol. 2",
+      "artist": "Various Artists",
+      "year": 2019,
+      "added_at": "2025-06-04T00:56:46",
+      "updated_at": "2025-06-04T21:22:36",
+      "genres": [
+        "Doo-Wop",
+        "R&B",
+        "Rhythm & Blues"
+      ],
+      "styles": [
+        "Doo-Wop",
+        "Jamaican Ska",
+        "Rhythm & Blues"
+      ],
+      "moods": [],
+      "track_count": 14
+    },
+    {
+      "key": "/library/metadata/4323",
+      "title": "Lagos Disco Inferno",
+      "artist": "Various Artists",
+      "year": 2010,
+      "added_at": "2025-03-07T16:43:12",
+      "updated_at": "2025-06-06T22:07:06",
+      "genres": [
+        "Dance",
+        "Disco"
+      ],
+      "styles": [
+        "Disco"
+      ],
+      "moods": [],
+      "track_count": 12
+    },
+    {
+      "key": "/library/metadata/33054",
+      "title": "Sweet Soul Baby- Rare and Hard to Find Soul 45s",
+      "artist": "Various Artists",
+      "year": 2021,
+      "added_at": "2025-03-11T19:32:56",
+      "updated_at": "2025-06-06T22:08:33",
+      "genres": [
+        "R&B",
+        "Soul"
+      ],
+      "styles": [
+        "Soul"
+      ],
+      "moods": [],
+      "track_count": 16
+    },
+    {
+      "key": "/library/metadata/7473",
+      "title": "The Discovered Theme",
+      "artist": "Various Artists",
+      "year": 1994,
+      "added_at": "2025-03-07T17:08:43",
+      "updated_at": "2025-06-04T21:12:03",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/36040",
+      "title": "Ultra-High Frequencies: The Chicago Party",
+      "artist": "Various Artists",
+      "year": 2015,
+      "added_at": "2025-03-12T16:56:05",
+      "updated_at": "2025-06-06T22:08:39",
+      "genres": [
+        "R&B",
+        "Boogie",
+        "Disco",
+        "Dance"
+      ],
+      "styles": [
+        "Disco",
+        "Boogie"
+      ],
+      "moods": [],
+      "track_count": 15
+    },
+    {
+      "key": "/library/metadata/7816",
+      "title": "RA.560",
+      "artist": "Visible Cloaks",
+      "year": 2017,
+      "added_at": "2025-03-07T17:11:12",
+      "updated_at": "2025-03-07T17:11:15",
+      "genres": [
+        "Electronic",
+        "Experimental",
+        "IDM",
+        "Progressive Electronic",
+        "Vaporwave"
+      ],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/22190",
+      "title": "Visible Cloaks",
+      "artist": "Visible Cloaks",
+      "year": 2015,
+      "added_at": "2025-03-07T17:11:05",
+      "updated_at": "2025-06-05T05:35:59",
+      "genres": [
+        "Ambient",
+        "Progressive Electronic",
+        "Electronic"
+      ],
+      "styles": [
+        "Ambient",
+        "Progressive Electronic",
+        "Nature Recordings"
+      ],
+      "moods": [],
+      "track_count": 2
+    },
+    {
+      "key": "/library/metadata/7810",
+      "title": "Visible Cloaks (2015)",
+      "artist": "Visible Cloaks",
+      "year": 2015,
+      "added_at": "2025-03-07T17:11:05",
+      "updated_at": "2025-03-14T15:25:33",
+      "genres": [
+        "Drone",
+        "Experimental",
+        "IDM",
+        "Vaporwave",
+        "Ambient",
+        "Electronic",
+        "Progressive Electronic"
+      ],
+      "styles": [
+        "Ambient",
+        "Nature Recordings",
+        "Progressive Electronic"
+      ],
+      "moods": [],
+      "track_count": 5
+    },
+    {
+      "key": "/library/metadata/62605",
+      "title": "Great Mass in C minor",
+      "artist": "Wolfgang Amadeus Mozart; Kiri Te Kanawa, Anne Sofie von Otter, Anthony Rolfe Johnson, Robert Lloyd, Academy of St Martin in the Fields and Academy of St Martin in the Fields Chorus, Sir Neville Marriner",
+      "year": 1994,
+      "added_at": "2025-06-02T09:52:43",
+      "updated_at": "2025-06-02T10:15:51",
+      "genres": [
+        "Christian Liturgical Music",
+        "Western Classical Music",
+        "Mass",
+        "European Music",
+        "Choral",
+        "Classical Period",
+        "Classical Music"
+      ],
+      "styles": [
+        "Mass",
+        "Classical Period"
+      ],
+      "moods": [],
+      "track_count": 13
+    },
+    {
+      "key": "/library/metadata/6609",
+      "title": "ကျိုႏဆွုမ်ႏမွူးနီꩻခွိုꩻပအိုဝ်ႏ",
+      "artist": "ရုဲင်းဖါက်သွꩻပေႏအစွို",
+      "year": null,
+      "added_at": "2025-03-07T17:01:29",
+      "updated_at": "2025-03-07T17:01:34",
+      "genres": [],
+      "styles": [],
+      "moods": [],
+      "track_count": 1
+    },
+    {
+      "key": "/library/metadata/41181",
+      "title": "Tokyo〜騒音美学〜",
+      "artist": "小久保隆",
+      "year": 1992,
+      "added_at": "2025-03-13T21:47:29",
+      "updated_at": "2025-06-04T23:46:08",
+      "genres": [
+        "Ambient House",
+        "Bit Music",
+        "Chillout",
+        "Dance",
+        "Electronic",
+        "Electronic Dance Music",
+        "House",
+        "Sequencer & Tracker",
+        "Field Recordings"
+      ],
+      "styles": [
+        "Ambient",
+        "Ambient House",
+        "Downtempo",
+        "New Age",
+        "Sequencer & Tracker",
+        "Field Recordings"
+      ],
+      "moods": [],
+      "track_count": 3
+    }
+  ]
+}

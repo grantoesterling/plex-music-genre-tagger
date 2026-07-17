@@ -185,4 +185,53 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This tool is for personal use with your own Plex library. Respect the terms of service of all APIs used. The script includes rate limiting and respectful API usage patterns. 
+This tool is for personal use with your own Plex library. Respect the terms of service of all APIs used. The script includes rate limiting and respectful API usage patterns.
+
+## Manual Genre Definitions
+
+For albums that are not available in RYM or need custom genre definitions, you can create entries in `data/rym-manual.json`. This file has the highest priority and will override any existing data from RYM sources.
+
+### Format
+
+The `rym-manual.json` file uses the same structure as the scraped RYM data:
+
+```json
+[
+  {
+    "albumTitle": "Your Album Title",
+    "artistName": "Artist Name",
+    "descriptors": [
+      "melodic",
+      "energetic",
+      "warm"
+    ],
+    "genres": [
+      "Rock",
+      "Alternative Rock"
+    ],
+    "secondaryGenres": [
+      "Indie Rock",
+      "Post-Rock"
+    ],
+    "url": "https://rateyourmusic.com/release/album/artist-name/album-title/"
+  }
+]
+```
+
+### Data Processing Priority
+
+1. **Manual JSON** (`data/rym-manual.json`) - Highest priority, overrides everything
+2. **Scraped JSON** (`data/rym-scraped.json`) - Second priority, overrides CSV
+3. **CSV Data** (`data/rym.csv`) - Lowest priority, base dataset
+
+### Usage
+
+1. Add your custom album entries to `data/rym-manual.json`
+2. Run the RYM updater script - manual entries will be processed with highest priority
+3. Manual entries will show `source: 'manual'` in the processing output
+
+This is particularly useful for:
+- Albums not available on RYM
+- Local/independent releases
+- Custom genre classifications
+- Correcting incorrect RYM data 
